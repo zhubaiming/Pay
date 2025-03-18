@@ -19,7 +19,7 @@
     }
   },
   "require": {
-    "nesbot/carbon": "3.x-dev",
+    "nesbot/carbon": "^3.0.0",
     "zhubaiming/cornerstone": "dev-master"
   },
   "require-dev": {
