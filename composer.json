@@ -19,7 +19,8 @@
     }
   },
   "require": {
-    "nesbot/carbon": "3.x-dev"
+    "nesbot/carbon": "3.x-dev",
+    "zhubaiming/cornerstone": "dev-master"
   },
   "require-dev": {
     "phpunit/phpunit": "12.1.x-dev"
